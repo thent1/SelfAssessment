@@ -1,89 +1,89 @@
-## JavaScript
+## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 👂 heard
+  - async function: 👂 heard
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof: 🎓 known
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 👂 heard
   - destructuring
   - generator
-  - iterator
+  - iterator: 🖐️ used
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global: 🖐️ used
   - globalThis
   - window
-  - getters and setters
+  - getters and setters: 🎓 known
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 👂 heard
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
-  - await
+  - await: 👂 heard
   - template literal
-  - strict mode
-  - delete
-  - in
-  - super
+  - strict mode: 🖐️ used
+  - delete: 🖐️ used
+  - in: 👂 heard
+  - super: 🎓 known
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
   - for..in
   - for..of
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - throw: 👂 heard
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 👂 heard
+  - export: 👂 heard
   - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - try..catch: 👂 heard
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 👂 heard
   - with
 - Functions
-  - function declaration
+  - function declaration: 🖐️ used
   - function expression
-  - return
+  - return: 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - Map: 👂 heard
+  - Set: 👂 heard
+  - undefined: 🖐️ used
+  - null: 🖐️ used
+  - Proxy: 👂 heard
   - weak collections
-  - timers
+  - timers: 🎓 known
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date: 🎓 known
+  - BigInt: 🎓 known
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 👂 heard
+  - prettier: 🖐️ used
   - MDN
