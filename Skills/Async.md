@@ -1,42 +1,42 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
-  - try..catch: 👂 heard
+  - Event loop: 🖐️ used
+  - try..catch: 🖐️ used
   - Non-blocking
   - Async I/O
-  - Thread pool: 👂 heard
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
-  - Event ports
+  - Event ports: 👂 heard
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming
   - Parallel programming
-  - Actor Model
-  - Thread: 👂 heard
-  - Process: 👂 heard
+  - Actor Model: 👂 heard
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks: 👂 heard
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise: 👂 heard
-  - Async/await: 👂 heard
-  - Future
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
+  - Future: 🎓 known
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event: 👂 heard
+  - Event: 🎓 known
   - Coroutine: 👂 heard
   - Goroutine
   - Signal: 👂 heard
-  - Stream
+  - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
   - Locks
@@ -48,7 +48,7 @@
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
+  - Observable/Observer: 🎓 known
   - Readable
   - Writable
   - Transform
@@ -59,19 +59,19 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 👂 heard
   - setImmediate
   - nextTick
   - AbortController
-  - AbortSignal
+  - AbortSignal: 👂 heard
   - Promise unhandled rejection
   - Promise double resolve
   - child_process
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
